@@ -1,0 +1,53 @@
+body{
+
+background-image: url(download.jpg);
+
+
+
+}
+
+
+
+
+h1 {
+
+color:red;
+font-size:larger;
+font-weight: 1000;
+font-style:italic;
+font: 3em sans-serif;
+background-color:black;
+text-align: center;
+text-decoration: underline;
+
+
+
+}
+
+p {
+
+color: black;
+background-color: red;
+
+}
+
+li {
+
+color: red;
+font-style: oblique;
+
+}
+
+
+
+a {
+
+color: orange;
+text-decoration: underline;
+font-style: italic;
+}
+
+
+
+
+ 
